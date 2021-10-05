@@ -1,4 +1,4 @@
 # vickyprajapati24.github.io
 
 test:
-https://fno.co/refCode/vicky1234
+https://fno.co/refCode/
